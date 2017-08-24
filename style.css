@@ -1,10 +1,26 @@
+/* navigation bar */
+.topnav {
+    background-color: #000000;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+/* background image */    
+}
 body {
-background-image: url("/images/water.jpg");
+background-image: url("/images/rainbow.jpg");
 background-size: 100%;
 opacity:1;
-
 }
 
+/* text */
 h1 {
 color: blue;
 text-align: center;
