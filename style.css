@@ -15,7 +15,7 @@
 
 /* background image */ 
 body {
-background-image: url("images/rainbow.jpg");
+background-image: url("/images/rainbow.jpg");
 background-size: 100%;
 opacity:1;
 }
