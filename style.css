@@ -13,7 +13,7 @@
     font-size: 17px;
 }
 
-/* background image */   
+/* background image */ 
 body {
 background-image: url("/images/rainbow.jpg");
 background-size: 100%;
@@ -26,7 +26,4 @@ color: blue;
 text-align: center;
 }
 
-p { 
-    font-size: 80px;
-}
 
