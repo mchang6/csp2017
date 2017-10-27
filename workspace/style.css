@@ -11,9 +11,9 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    
-/* background image */    
 }
+
+/* background image */ 
 body {
 background-image: url("/images/rainbow.jpg");
 background-size: 100%;
@@ -26,7 +26,5 @@ color: blue;
 text-align: center;
 }
 
-p { 
-    font-size: 80px;
-}
 
+/* test url(/images/rainbow.jpg);
